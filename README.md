@@ -51,12 +51,68 @@ Encontrarás un menú con las siguientes opciones:
 3. Mostrar envío (sin iniciar sesión)
 4. Salir
 
-#### Iniciar sesión
+#### 1. Iniciar sesión
 En este bloque nos vuelve a aparecer otro menú con las siguientes opciones:
   1. Administrador
   2. Conductor
   3. Usuario
   4. Salir
 
-    #### Iniciar sesíon como Administrador
-    
+#### Iniciar sesión como Administrador
+Te aparecerán las siguientes opciones:
+![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/36b9163c-0765-4ab6-a35b-c5d0c82f0492)
+
+1. Podrás crear un envío en el que tendrás que introducir el nombre del destinatario y su dirección de destino formada por (calle / localidad / provinicia)
+2. Te aparecerán los envíos que no tengan asignados conductores, eligirás el envío que desees y le asignarás el conductor que quieras en caso de que no este ocupado
+3. Se mostrará en pantalla toda la información de los usuarios registrados en el programa
+4. Se mostrará la información de todos los envíos registrados en el programa
+5. Se mostrará la información de todos los conductores registrados en el programa
+6. Podrás modificar el correo y clave del administrador
+7. Esta opción te permite salir del menú
+
+
+#### Iniciar sesión como Conductor
+Para poder iniciar sesión como Conductor, primero debes registrarte. Una vez te hayas registrado te aparecerá el siguiente menú:
+
+![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/67a71e99-207b-4e1d-aae1-745ebd5173f7)
+
+1. Muestra al conductor la información de los envíos que tiene asignados
+2. Permite al conductor cambiar el estado de un envío
+3. Muestra al conductor los paquetes que ha entregado
+4. Permite al conductor modificar la información de su perfil
+5. Permite al conductor salir del menú
+
+#### Iniciar sesión como Usuario
+Para poder iniciar sesión como Usuario, primero debes registrarte. Una vez te hayas registrado te aparecerá el siguiente menú:
+
+![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/c240eb19-f5e0-47e7-8707-89fab6227ffa)
+
+1. Muestrá la información de los envíos que van dirigidos a dicho usuario
+2. Permite al usuario modificar los datos de entrega de un envío, es decir, permite modificar el lugar de destino del envío
+3. Muestra toda la información del usuario
+4. Permite modificar el perfil del usuario
+5. Permite al usuario salir del menú
+
+#### 2. Crear Cuenta
+Al seleccionar esta opción, el progarma nos muestra el siguiente menú:
+
+![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/abbd4890-050c-4a59-8b20-4e409eee2189)
+
+1. Nos permite registrarnos como conductor, el programa nos pedirá nuestro nombre y número de teléfono
+2. Nos permite registrarnos como usuarios o destinatarios, el programa nos pedíra nombre, correo, clave, dirección, localidad, provinica y número de teléfono
+3. Esta opción nos permite salir del menú
+
+#### 3. Mostrar envío
+Este apartado nos muestra la información del envío sin la necesidad de iniciar sesión, solo necesitaremos el número de seguimiento del envío.
+
+![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/304e4aa6-81b6-4feb-b292-169b09facdba)
+
+#### 4. Salir
+La última opción es la que permite apagar el software por completo
+
+![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/109592f3-2187-4165-9068-e97676263695)
+
+## 📝 Creador 📝
+
+- Manuel José Liebana Vilches - https://github.com/ManuelJose05
+
