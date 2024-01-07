@@ -34,7 +34,7 @@ C:\Program Files\Java\jdk-19.0.2\bin
 
 _Una vez cumplas los requisitos, debes descargarte nuestro repositorio, pulsando en el siguiente botón:_
 
-![image](https://github.com/Antonio0416/FernanHotel2/assets/113978105/19086323-b585-41a7-9b00-154258f6b5d8)
+![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/22e5bcb4-96f0-4117-a4cd-fd84532fa13c)
 
 _Ahora con el proyecto en tu equipo situandolo en el disco C: solo tendrás que descomprimirlo con permisos de administrador para pasar al siguiente apartado_
 
@@ -60,6 +60,7 @@ En este bloque nos vuelve a aparecer otro menú con las siguientes opciones:
 
 #### Iniciar sesión como Administrador
 Te aparecerán las siguientes opciones:
+
 ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/36b9163c-0765-4ab6-a35b-c5d0c82f0492)
 
 1. Podrás crear un envío en el que tendrás que introducir el nombre del destinatario y su dirección de destino formada por (calle / localidad / provinicia)
@@ -71,16 +72,16 @@ Te aparecerán las siguientes opciones:
 7. Esta opción te permite salir del menú
 
 
-#### Iniciar sesión como Conductor
-Para poder iniciar sesión como Conductor, primero debes registrarte. Una vez te hayas registrado te aparecerá el siguiente menú:
+#### Iniciar sesión como Transportista
+Para poder iniciar sesión como Transportista, primero debes registrarte. Una vez te hayas registrado te aparecerá el siguiente menú:
 
 ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/67a71e99-207b-4e1d-aae1-745ebd5173f7)
 
-1. Muestra al conductor la información de los envíos que tiene asignados
-2. Permite al conductor cambiar el estado de un envío
-3. Muestra al conductor los paquetes que ha entregado
-4. Permite al conductor modificar la información de su perfil
-5. Permite al conductor salir del menú
+1. Muestra al transportista la información de los envíos que tiene asignados
+2. Permite al transportista cambiar el estado de un envío
+3. Muestra al transportista los paquetes que ha entregado
+4. Permite al transportista modificar la información de su perfil
+5. Permite al transportista salir del menú
 
 #### Iniciar sesión como Usuario
 Para poder iniciar sesión como Usuario, primero debes registrarte. Una vez te hayas registrado te aparecerá el siguiente menú:
