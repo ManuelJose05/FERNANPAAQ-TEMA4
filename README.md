@@ -100,8 +100,19 @@ Al seleccionar esta opción, el progarma nos muestra el siguiente menú:
 ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/abbd4890-050c-4a59-8b20-4e409eee2189)
 
 1. Nos permite registrarnos como conductor, el programa nos pedirá nuestro nombre y número de teléfono
-2. Nos permite registrarnos como usuarios o destinatarios, el programa nos pedíra nombre, correo, clave, dirección, localidad, provinica y número de teléfono
-3. Esta opción nos permite salir del menú
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/1d2c3aed-3816-44f8-abd5-39ba424fd610)
+
+3. Nos permite registrarnos como usuarios o destinatarios, el programa nos pedíra nombre, correo, clave, dirección, localidad, provinica y número de teléfono. Ahora hemos implementado un token que enviará un correo al usuario con un código de confirmación para poder registrarse. Una vez introducido el código, el proceso de registro habrá finalizado. En caso contrario, no se registrará el usario al sistema
+
+![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/e645f10b-448c-46d1-b723-2d7c957ecae7)
+
+
+![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/350bac74-22a7-4b54-b20a-fb1b344e2cd1)
+
+5. Esta opción nos permite salir del menú
+
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/c605b18c-c575-45b4-bbab-90b7a88c1d78)
+
 
 #### 3. Mostrar envío
 Este apartado nos muestra la información del envío sin la necesidad de iniciar sesión, solo necesitaremos el número de seguimiento del envío.
