@@ -99,10 +99,23 @@ Para poder iniciar sesión como Transportista, primero debes registrarte. Una ve
 ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/67a71e99-207b-4e1d-aae1-745ebd5173f7)
 
 1. Muestra al transportista la información de los envíos que tiene asignados
-2. Permite al transportista cambiar el estado de un envío
+
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/7559ea69-6fb7-48da-81ca-affdc571c709)
+
+2. Permite al transportista cambiar el estado de un envío. Se ha añadido una función que al cambiar el estado de un envío se envía un correo al usuario indicandole el estado de su envío.
+
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/b3e1b439-41c1-4eb4-8506-9a2d838ca66c)
+
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/f7a5f466-0261-4bc4-a393-61972d3e9acc)
+
 3. Muestra al transportista los paquetes que ha entregado
 4. Permite al transportista modificar la información de su perfil
+   
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/f6e1e298-61b5-432e-936e-562db814e1e8)
+
 5. Permite al transportista salir del menú
+
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/2a690cac-993c-47e9-9323-f7ce13544b10)
 
 #### Iniciar sesión como Usuario
 Para poder iniciar sesión como Usuario, primero debes registrarte. Una vez te hayas registrado te aparecerá el siguiente menú:
