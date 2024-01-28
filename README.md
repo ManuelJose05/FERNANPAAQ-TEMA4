@@ -64,13 +64,34 @@ Te aparecerán las siguientes opciones:
 ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/36b9163c-0765-4ab6-a35b-c5d0c82f0492)
 
 1. Podrás crear un envío en el que tendrás que introducir el nombre del destinatario y su dirección de destino formada por (calle / localidad / provinicia)
-2. Te aparecerán los envíos que no tengan asignados conductores, eligirás el envío que desees y le asignarás el conductor que quieras en caso de que no este ocupado
+   
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/c23d5c89-d32c-45fc-bb17-1dc4074e7685)
+
+2. Te aparecerán los envíos que no tengan asignados conductores, eligirás el envío que desees y le asignarás el conductor que quieras en caso de que no este ocupado. En la nueva versión hemos añadido una función que envía un mensaje automático a Telegram indicando que se ha asignado un conductor al envío, indicando su nombre y número de teléfono
+   
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/65592973-ad79-4e69-8ae8-d33593e10cb0)
+
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/75814442-cd9f-4cd2-826f-217ad7b2e5f2)
+
 3. Se mostrará en pantalla toda la información de los usuarios registrados en el programa
+   
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/279a17e0-b541-4e0b-9ff4-6b892ed606f6)
+
 4. Se mostrará la información de todos los envíos registrados en el programa
+
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/44e2a1c0-340a-4290-a33e-960fe5f4b62a)
+
 5. Se mostrará la información de todos los conductores registrados en el programa
+
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/71979516-c644-4047-abf4-1fa3f95ead29)
+
 6. Podrás modificar el correo y clave del administrador
+
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/fa2c656f-005e-4c2f-b00f-683b01f9b131)
+
 7. Esta opción te permite salir del menú
 
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/d128249e-4eb9-4307-ad7b-8c6afb424996)
 
 #### Iniciar sesión como Transportista
 Para poder iniciar sesión como Transportista, primero debes registrarte. Una vez te hayas registrado te aparecerá el siguiente menú:
