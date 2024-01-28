@@ -75,7 +75,7 @@ Te aparecerán las siguientes opciones:
 
 3. Se mostrará en pantalla toda la información de los usuarios registrados en el programa
    
-   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/279a17e0-b541-4e0b-9ff4-6b892ed606f6)
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/16808e56-f3da-4576-8811-84c2b624518f)
 
 4. Se mostrará la información de todos los envíos registrados en el programa
 
@@ -123,10 +123,28 @@ Para poder iniciar sesión como Usuario, primero debes registrarte. Una vez te h
 ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/c240eb19-f5e0-47e7-8707-89fab6227ffa)
 
 1. Muestrá la información de los envíos que van dirigidos a dicho usuario
-2. Permite al usuario modificar los datos de entrega de un envío, es decir, permite modificar el lugar de destino del envío
+
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/1b79ae27-1dc5-400c-ad3b-03a8b09d21c7)
+
+2. Permite al usuario modificar los datos de entrega de un envío, es decir, permite modificar el lugar de destino del envío. Para ello hemos implementado una función que envia al correo del usuario un código de confirmación para poder modificar los datos de un envío.
+
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/4af9f47c-6d73-44c2-aecb-9090609082c9)
+
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/088750fc-9f1b-4438-9138-2e01c7bf440c)
+
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/db4a7314-d30f-473e-a1d1-2a65d941ced8)
+
 3. Muestra toda la información del usuario
+
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/2bc72541-9389-4910-9d1f-6e67d77293ce)
+
 4. Permite modificar el perfil del usuario
-5. Permite al usuario salir del menú
+
+   ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/d7fc1846-1ac2-4c11-b51b-a996627d731b)
+
+7. Permite al usuario salir del menú
+
+![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/dd3de1bc-393b-461f-97a5-b40e15e6c17d)
 
 #### 2. Crear Cuenta
 Al seleccionar esta opción, el progarma nos muestra el siguiente menú:
@@ -136,9 +154,9 @@ Al seleccionar esta opción, el progarma nos muestra el siguiente menú:
 1. Nos permite registrarnos como conductor, el programa nos pedirá nuestro nombre y número de teléfono
    ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/1d2c3aed-3816-44f8-abd5-39ba424fd610)
 
-3. Nos permite registrarnos como usuarios o destinatarios, el programa nos pedíra nombre, correo, clave, dirección, localidad, provinica y número de teléfono. Ahora hemos implementado un token que enviará un correo al usuario con un código de confirmación para poder registrarse. Una vez introducido el código, el proceso de registro habrá finalizado. En caso contrario, no se registrará el usario al sistema
+3. Nos permite registrarnos como usuarios o destinatarios, el programa nos pedíra nombre, correo, clave, dirección, chatId (numero de chat de Telegram), localidad, provinica y número de teléfono. Ahora hemos implementado un token que enviará un correo al usuario con un código de confirmación para poder registrarse. Una vez introducido el código, el proceso de registro habrá finalizado. En caso contrario, no se registrará el usario al sistema
 
-![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/e645f10b-448c-46d1-b723-2d7c957ecae7)
+![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/628dcc94-9b46-4674-9424-6b7fc25c51c3)
 
 
 ![image](https://github.com/ManuelJose05/FERNANPAAQ-TEMA3/assets/150932456/350bac74-22a7-4b54-b20a-fb1b344e2cd1)
