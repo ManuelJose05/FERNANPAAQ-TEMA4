@@ -39,7 +39,7 @@ _Una vez cumplas los requisitos, debes descargarte nuestro repositorio, pulsando
 _Ahora con el proyecto en tu equipo situandolo en el disco C: solo tendrás que descomprimirlo con permisos de administrador para pasar al siguiente apartado_
 
 ## ⚙️ Ejecución ⚙️
-_Con el programa descomprimido, se va a encontrar una carpeta **POO3** y un ejecutable llamado **FERNANPAAQ**. Para acceder al programa primero debe cumplir los requisitos y después puede abrir la aplicación._
+_Con el programa descomprimido, se va a encontrar una carpeta **PracticaT4** y un ejecutable llamado **FERNANPAAQ**. Para acceder al programa primero debe cumplir los requisitos y después puede abrir la aplicación._
 
 _Al abrir la aplicación se encontrará con la siguiente pantalla:_
 
